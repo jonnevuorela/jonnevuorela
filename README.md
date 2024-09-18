@@ -1,8 +1,3 @@
-# Hi there! 👋
+## Hello!
 
-I’m an **ICT Engineering student** at **Lapland University of Applied Sciences**. My goal? To become a **software engineer**. 🚀
-
-- **Tech Enthusiast**: I’m passionate about learning new programming technologies and applying them practically. 💡
-- **Projects**: Check out my GitHub repos for some ongoing personal projects. 🛠️
-
-Feel free to connect—I’m always up for tech discussions! 😊
+I'm an **ICT Engineering student** at **Lapland University of Applied Sciences** with a subtle interest in backend development. I’m still exploring and learning, and I prefer to pick up specific technologies as I encounter them in different projects. Right now, I'm focused on expanding my understanding on different technologies and just building stuff.
