@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Jonne Vuorela, a Software Engineer based in Northern Finland. On this page you'll find my projects and a bit about me.
+I'm Jonne Vuorela, a Software Engineer based in Northern Finland.
 
 ### What kind of a software engineer?
 
