@@ -6,7 +6,7 @@ I'm Jonne Vuorela, a Software Engineer based in Northern Finland.
 
 Generalist. A builder who handles it all when needed. Shipping software solo forces you into DevOps, full-stack, and backend work.
 My main focus is still tools engineering and backend systems. I root for simplicity over the shiny new thing. Currently figuring out cloud systems.
-Most significant of my coding projects are composed and displayed in <a href="https://www.jonnevuorela.com/">here</a>.
+Most significant of my coding projects are composed and displayed in <a href="https://jonnevuorela.com/">here</a>.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonnevuorela&theme=apprentice)
 
